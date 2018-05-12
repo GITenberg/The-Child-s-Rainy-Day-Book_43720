@@ -1,0 +1,30 @@
+_repo: The-Child-s-Rainy-Day-Book_43720
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43720-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: White, Mary
+    birthdate: 1869
+    deathdate: 1952
+    gutenberg_agent_id: '42393'
+    url: http://www.gutenberg.org/2009/agents/42393
+description: Illustrated by the author.
+gutenberg_issued: '2013-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43720'
+  lccn: 05038082
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Amusements -- Juvenile literature'
+- !lcsh 'Handicraft -- Juvenile literature'
+- !lcsh 'Children''s literature'
+- !lcsh 'Games -- Juvenile literature'
+- !lcc 'TT'
+title: The Child's Rainy Day Book
+url: http://www.gutenberg.org/ebooks/43720
